@@ -87,6 +87,9 @@
                                 <bundleDef>
                                     org.wso2.carbon.identity:org.wso2.carbon.identity.user.store.configuration.deployer
                                 </bundleDef>
+<bundleDef>org.apache.poi.wso2:poi-ooxml:3.9.0.wso2v3</bundleDef>
+<bundleDef>org.apache.poi.wso2:poi:3.9.0.wso2v1</bundleDef>
+<bundleDef>org.apache.poi.wso2:poi-scratchpad:3.9.0.wso2v1</bundleDef>
                             </bundles>
                             <importFeatures>
                                 <importFeatureDef>
