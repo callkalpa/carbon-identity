@@ -1820,7 +1820,7 @@
         <!-- Axiom Version -->
         <axiom.version>1.2.11-wso2v6</axiom.version>
         <axiom.wso2.version>1.2.11.wso2v6</axiom.wso2.version>
-        <axiom.osgi.version.range>[1.2.11.wso2v6, 1.3.0)</axiom.osgi.version.range>
+        <axiom.osgi.version.range>[1.2.11, 1.3.0)</axiom.osgi.version.range>
         <axiom.javax.mail.imp.pkg.version.range>[1.4.0, 1.5.0)</axiom.javax.mail.imp.pkg.version.range>
         <axiom.org.jaxen.imp.pkg.version.range>[1.1.1, 1.2.0)</axiom.org.jaxen.imp.pkg.version.range>
 
@@ -1891,9 +1891,9 @@
         <orbit.version.maven-scm>1.7.0.wso2v1</orbit.version.maven-scm>
 
         <!-- Rampart -->
-        <rampart.wso2.version>1.6.1.wso2v14</rampart.wso2.version>
+        <rampart.wso2.version>1.6.1.wso2v19</rampart.wso2.version>
         <rampart.wso2.osgi.version.range>[1.6.1,1.6.2)</rampart.wso2.osgi.version.range>
-        <rampart.mar.version>1.6.1.wso2v14</rampart.mar.version>
+        <rampart.mar.version>1.6.1.wso2v19</rampart.mar.version>
 
         <!-- Equinox -->
         <version.equinox.osgi.services>3.3.100.v20130513-1956</version.equinox.osgi.services>
@@ -1907,7 +1907,7 @@
         <commons-io.wso2.version>2.4.0.wso2v1</commons-io.wso2.version>
         <commons.io.wso2.osgi.version.range>[2.4.0,2.5.0)</commons.io.wso2.osgi.version.range>
         <commons-fileupload.wso2.version>1.2.2.wso2v1</commons-fileupload.wso2.version>
-        <commons-fileupload.imp.pkg.version.range>[1.2.2,1.3.0)</commons-fileupload.imp.pkg.version.range>
+        <commons-fileupload.imp.pkg.version.range>[1.2.2,1.4.0)</commons-fileupload.imp.pkg.version.range>
         <commons-httpclient.wso2.version>3.1.0.wso2v2</commons-httpclient.wso2.version>
         <commons-httpclient.wso2.osgi.version>[3.1.0,3.2.0)</commons-httpclient.wso2.osgi.version>
         <commons-dbcp.version>1.2.2</commons-dbcp.version>

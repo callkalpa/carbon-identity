@@ -71,6 +71,7 @@
                                     org.wso2.carbon.identity:org.wso2.carbon.user.mgt.ui.feature:${carbon.identity.version}
                                 </includedFeatureDef>
                             </includedFeatures>
+
                         </configuration>
                     </execution>
                 </executions>
